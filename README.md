@@ -11,7 +11,7 @@ A beginner-friendly collection of Matrices programs in C with clear code and ste
 
 You will learn to: 
 - Use your Mathematics Matrices concepts in C.
-- Learn how we create Matrices using simple nested loops.
+- How we create Matrices using simple nested loops.
 - Matrix Traversal.
 - Finding patterns within Matrices.
 
