@@ -15,4 +15,6 @@ You will learn to:
 - Matrix Traversal.
 - Finding patterns within Matrices.
 
+Make sure to follow C topic-wise for better understanding. 
+
 I hope this helps :) 
